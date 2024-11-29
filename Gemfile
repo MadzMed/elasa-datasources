@@ -8,6 +8,7 @@ ruby '>= 3'
 
 gem 'activesupport'
 gem 'bzip2-ffi'
+gem 'async'
 gem 'http'
 gem 'json'
 gem 'jsonpath'
